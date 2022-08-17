@@ -1,20 +1,4 @@
 ```diff 
-- [ DEAD REPO AND NO MORE UPDATE ]
-```
-[![SlamDevs](https://telegra.ph/file/143032e96542e7534f073.jpg)](https://t.me/SlamDevs)
-
-# Slam Mirror Bot
-![GitHub Repo stars](https://img.shields.io/github/stars/breakdowns/slam-mirrorbot?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/breakdowns/slam-mirrorbot?color=green&style=flat)
-![GitHub contributors](https://img.shields.io/github/contributors/breakdowns/slam-mirrorbot?style=flat)
-![GitHub watchers](https://img.shields.io/github/watchers/breakdowns/slam-mirrorbot)
-![Docker Pulls](https://img.shields.io/docker/pulls/breakdowns/mega-sdk-python?label=Docker%20Pull)
-
-**Slam Mirror Bot** is a _multipurpose_ Telegram Bot written in Python for mirroring files on the Internet to our beloved Google Drive. Based on [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
-
-# Features:
-<details>
-    <summary><b>Click Here For More Details</b></summary>
 
 ## By Slam Devs
 - qBittorrent
@@ -36,9 +20,7 @@
 - Search in multiple Drive folder/TD
 - Many bugs has been fixed
 - Torrent search Supported:
-```
-nyaa.si, sukebei, 1337x, piratebay,
-tgx, yts, eztv, torlock, rarbg
+
 ```
 - Direct links Supported:
 ```
@@ -82,8 +64,8 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/breakdowns/slam-mirrorbot mirrorbot/
-cd mirrorbot
+git clone https://github.com/
+cd bot
 ```
 
 - Install requirements
